@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<resources>
+    <string name="app_name">ScoreYourCricket</string>
+    <string name="Image_Splash">SplashImage</string>
+    <string name="Image_Home_Name">HomeImage</string>
+    <string name="Image_Game_Name">GameImage</string>
+    <string name="Image_Profile_Name">ProfileImage</string>
+    <string name="Image_Players_Name">PlayersImage</string>
+    <string name="Image_Teams_Name">TeamsImage</string>
+    <string name="Image_Overs_Name">OversImage</string>
+    <string name="Image_Plus_Name">PlusImage</string>
+    <string name="Image_Minus_Name">MinusImage</string>
+    <string name="Image_Overs_Ball_Name">OversBallImage</string>
+    <string name="Image_EditPlayers">EditPlayersImage</string>
+    <string name="Image_DeletePlayers">DeletePlayersImage</string>
+    <string name="Image_Add_Name">AddImage</string>
+    <string name="Image_Login_Name">LoginImage</string>
+    <string name="Image_Logout_Name">LogoutImage</string>
+    <string name="Image_Menu_Item">MenuItemImage</string>
+    <string name="Enter_Game_Details">Please enter game details.</string>
+    <string name="Name">Name</string>
+    <string name="DateTime">DateTime</string>
+    <string name="Location">Location</string>
+    <string name="Overs">Overs</string>
+    <string name="Type">Type</string>
+    <string name="Add_New">Add New</string>
+    <string name="Select">Select</string>
+    <string-array name="game_type_array">
+    	<item>Select</item>
+  		<item>Team Play</item>
+  		<item>Individual</item>
+  	</string-array>
+  	<string name="Enter_Team1_Details">Please enter Team-1 details.</string>
+  	<string name="Enter_Team2_Details">Please enter Team-2 details.</string>
+  	<string name="Enter_Database_Details">Please enter your database details.</string>
+  	<string name="Players">Players</string>
+  	<string name="Login">Login</string>
+  	<string name="Password">Password</string>
+  	<string name="Database_Name">DB Name</string>
+  	<string name="Create_New_Database">Create new database</string>
+    <string-array name="homescreen_items_array">
+  		<item>Score New Game</item>
+  		<item>Resume Previous Game</item> 
+  		<item>Players</item> 
+  		<item>Teams</item>
+  		<item>Logout</item>  		
+  	</string-array>
+  	<string name="Please_Provide_Valid_InputVals">Please provide valid data.</string>
+  	<string name="Error">Error</string>
+  	<string name="OK">OK</string>
+  	<string name="Database_Creation_Success">Database created successfully.</string>
+  	<string name="Continue">Continue</string>
+  	<string name="Back">Back</string>
+  	<string name="Invalid_DatabaseName_Password">Invalid Database Name or Password.</string>
+  	<string name="Database_Already_Exist">Database with same name already exist. Please try something different.</string>
+  	<string name="Add_Player">Add Player</string>
+  	<string name="View_Players">View Players</string>
+  	<string name="Players_Details">Please enter player details.</string>
+  	<string name="BirthDate">Birth Date</string>
+  	<string name="Submit">Submit</string>
+  	<string name="Player_Added">Player added successfully.</string>
+  	<string name="Done">Done</string>
+  	<string name="Players_Not_Added">No players added yet. Please try adding new players first.</string>
+  	<string name="Exit">Exit</string>
+  	<string name="Exit_Question">Do you really want to exit?</string>
+  	<string name="Yes">Yes</string>
+  	<string name="No">No</string>
+  	<string name="Cancel">Cancel</string>
+  	<string name="Add_Team">Add Team</string>
+  	<string name="View_Team">View Teams</string>
+  	<string name="Enter_Team_Details">Please enter team details.</string>
+  	<string name="Select_Players">Select Players</string>
+  	<string name="Fetching_Players">Fetching Players</string>
+  	<string name="Fetching_Teams">Fetching Teams</string>
+  	<string name="Select_GameType">Select Game Type</string>
+  	<string name="Select_Team">Select Team</string>
+  	<string name="Start_Game">Start Game</string>
+  	<string name="Team_Added">Team added successfully.</string>
+  	<string name="Teams">Teams</string>
+  	<string name="Batting_Team">Batting Team</string>
+  	<string name="Bowling_Team">Bowling Team</string>
+  	<string name="Select_Batsman">Select Batsman</string>
+  	<string name="Select_Bowler">Select Bowler</string>
+  	<string name="This_Over">This Over</string>
+  	<string name="Teams_Not_Added">No teams added yet. Please try adding new teams first.</string>
+  	<string name="Num_0">0</string>
+  	<string name="Num_1">1</string>
+  	<string name="Num_2">2</string>
+  	<string name="Num_3">3</string>
+  	<string name="Num_4">4</string>
+  	<string name="Num_6">6</string>
+  	<string name="Num_Wd">Wd</string>
+  	<string name="Num_Nb">Nb</string>
+  	<string name="Num_Wkt">Wkt</string>
+  	<string name="Dot">.</string>
+  	<string name="Next_Over">Next</string>
+  	<string name="Previous_Over">Previous</string>
+  	<string name="Finish">Finish</string>
+  	<string name="Matches">Matches</string>
+  	<string name="Innings">Innings</string>
+  	<string name="Wides">Wds</string>
+  	<string name="No_Balls">Nbs</string>
+  	<string name="Extras">Extras</string>
+  	<string name="Enter_Innings_Details">Please enter innings details.</string>
+  	<string name="Runs">Runs</string>
+  	<string name="Strike_Rate">Strk Rt</string>
+  	<string name="Avg">Avg</string>
+  	<string name="Economy">Economy</string>
+  	<string name="Mdns">Mdns</string>
+  	<string name="Sixes">6s</string>
+  	<string name="Fours">4s</string>
+  	<string name="Balls">Balls</string>
+  	<string name="Wickets">Wkts</string>
+  	<string name="Match">Match</string>
+  	<string name="Inning">Inning</string>
+</resources>
